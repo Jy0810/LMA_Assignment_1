@@ -76,8 +76,8 @@ However, re-ranking did not consistently eliminate unsupported claims or errors 
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/Jy0810/LMA_Assignment_1.git
+cd https://github.com/Jy0810/LMA_Assignment_1.git
 ```
 
 Install the required libraries:
@@ -101,4 +101,4 @@ The first run may take longer because the required models need to be downloaded.
 ## Author
 
 **Jyothika Goparaju**  
-Roll No.: 2025701007
+Roll No: 2025701007
