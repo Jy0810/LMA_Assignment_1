@@ -1,0 +1,11 @@
+chunk_id,page,bi_rank,cross_rank,rank_change,baseline_top3,reranked_top3
+153,62,1,1,0,True,True
+162,67,2,2,0,True,True
+66,24,4,3,1,False,True
+65,24,5,4,1,False,False
+67,25,9,5,4,False,False
+56,21,6,6,0,False,False
+161,66,10,7,3,False,False
+158,65,7,8,-1,False,False
+141,56,3,9,-6,True,False
+149,60,8,10,-2,False,False
